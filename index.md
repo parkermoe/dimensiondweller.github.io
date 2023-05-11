@@ -17,7 +17,7 @@ On this site, you'll find a collection of my projects and blog posts that demons
 * B.A. Economics - The University of Michigan
 
 # Projects
-* [End-to-End Sentiment Analysis - From Scratch](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
+* [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
 
 # Publications
 
