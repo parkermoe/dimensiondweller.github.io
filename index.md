@@ -16,6 +16,9 @@ On this site, you'll find a collection of my projects and blog posts that demons
 * M.Sc. Business Analytics - The University of Michigan
 * B.A. Economics - The University of Michigan
 
+# Projects
+* [End-to-End Sentiment Analysis - From Scratch](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
+
 # Publications
 
 * [Simulation Improves Service and Operations at a Franchise Resale Store](https://www.researchgate.net/publication/355938481_Simulation_Improves_Service_and_Operations_at_a_Franchise_Resale_Store)
