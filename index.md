@@ -1,3 +1,7 @@
+<img src="/IMG_8857.jpeg" alt="Profile Photo" class="profile-photo">
+
+
+
 ![Alt Text](url)
 ![Profile Picture](/IMG_8857.jpeg)
 
