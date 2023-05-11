@@ -4,6 +4,10 @@
 * M.Sc. Business Analytics - The University of Michigan
 * B.A. Economics - The University of Michigan
 
+# Publications
+
+* [Simulation Improves Service and Operations at a Franchise Resale Store](https://www.researchgate.net/publication/355938481_Simulation_Improves_Service_and_Operations_at_a_Franchise_Resale_Store)
+
 
 # Blog
 
