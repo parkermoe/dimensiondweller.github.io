@@ -18,7 +18,8 @@ On this site, you'll find a collection of my projects and blog posts that demons
 
 # Projects
 * [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
-* [Visual Journey Through The Mountains using Apple Health Data](https://github.com/yourusername/visual_journey_through_the_mountains) - An interactive visualization of hiking journeys using Apple Health's exported data and photos taken along the way. [View the Interactive Map](https://github.com/DimensionDweller/visual_journey_through_the_mountains/blob/main/copper_ridge_map.html)
+* [Visual Journey Through The Mountains using Apple Health Data](https://github.com/yourusername/visual_journey_through_the_mountains) - An interactive visualization of hiking journeys using Apple Health's exported data and photos taken along the way. [View the Interactive Map] 
+<iframe src="https://gist.github.com/DimensionDweller/a42e8141160d929ed09aa819f7172fe8.pibb" width="100%" height="600"></iframe>
 
 # Publications
 
