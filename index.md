@@ -5,11 +5,6 @@
 * B.A. Economics - The University of Michigan
 
 
-![Alt Text](url)
-![Profile Picture](/IMG_8857.jpeg)
-
-
-
 ## My Blog Posts
 
 - [NLP Series — Part 1: Concocting a BERT(iful) Soup For Sentiment Analysis of News Sources](https://medium.com/@parkermo_86729/concocting-a-bert-soup-for-sentiment-analysis-of-news-sources-1de0ab64d1ff)
