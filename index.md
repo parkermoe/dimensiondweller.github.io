@@ -18,8 +18,7 @@ On this site, you'll find a collection of my projects and blog posts that demons
 
 # Projects
 * [Novel Face Generation and Manipulation - Variational Auto Encoder (VAE) Implimentation](https://github.com/DimensionDweller/VAE_Implimentation)
-* [Using LSTM to Generate Novel Cooking Recipes]
-(https://github.com/DimensionDweller/recipe_generator_LSTM/tree/main)
+* [Using LSTM to Generate Novel Cooking Recipes](https://github.com/DimensionDweller/recipe_generator_LSTM/tree/main)
 * [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
 * [Visual Journey Through The Mountains using Apple Health Data](https://github.com/DimensionDweller/visual_journey_through_the_mountains) - An interactive visualization of hiking journeys using Apple Health's exported data and photos taken along the way.[View the Interactive Map here](https://645d6ec1cbb79215784d693d--enchanting-palmier-8f33ef.netlify.app)
 * [A Deep Dive into Word Embeddings Of Popular News Sources](https://github.com/DimensionDweller/nlp_word_embedding_analysis)
