@@ -1,14 +1,15 @@
 # Welcome to My Page!
 
-Hello, my name is Parker Moesta and I'm currently finishing up my M.Sc in Data Science at the University of Michigan - School of Information. I have a diverse educational background, starting with an undergraduate degree in Economics. During my undergraduate studies, I developed a keen interest in consumer sentiment, specifically in relation to greenwash advertising. This interest led me to undertake research in this area, providing me with my first taste of data analysis.
+Hello, my name is Parker Moesta. I'm a data science enthusiast currently wrapping up my M.Sc in Data Science at the University of Michigan - School of Information. My academic journey began with an undergraduate degree in Economics, where I developed a keen interest in consumer sentiment, specifically in relation to greenwash advertising. This interest sparked my first foray into data analysis and research.
 
-I then decided to deepen my understanding of analytics by pursuing an M.Sc in Business Analytics. Here, I delved into the world of discrete event simulation, which culminated in a research paper that was presented at the 4th North American International Conference on Industrial Engineering and Operations Management (IEOM).
+To deepen my understanding of analytics, I pursued an M.Sc in Business Analytics. This journey led me to the world of discrete event simulation and resulted in a research paper presented at the 4th North American International Conference on Industrial Engineering and Operations Management (IEOM).
 
-Now, as I near the completion of my second master's degree, I have developed a robust set of skills in data science. I am excited to use these skills to tackle complex problems and generate insights from data.
+Recently, my passion has been focused on building complex and challenging deep learning models, particularly those involving Generative models. I find great satisfaction in delving into the mathematical intricacies and implementation details of different architectures, as it allows me to fully understand and optimize these powerful tools.
 
-Apart from my academic and professional interests, I am an avid backpacker, skier, and rock climber. These activities provide a balance to my life, allowing me to unwind and recharge. I believe that this balance is essential in maintaining creativity and enthusiasm in my work.
+Outside of my academic and professional pursuits, I am an avid backpacker, skier, and rock climber. These activities provide a balance to my life, fostering creativity and enthusiasm in my work.
 
 On this site, you'll find a collection of my projects and blog posts that demonstrate my skills and interests in data science. Feel free to explore, and don't hesitate to reach out if you have any questions or just want to chat!
+
 
 # Education
 
@@ -20,6 +21,7 @@ On this site, you'll find a collection of my projects and blog posts that demons
 * [Conditional Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) - Implimentation](https://github.com/DimensionDweller/Conditional_WGAN-CP_Implimentation/tree/main)
 * [Novel Face Generation and Manipulation - Variational Auto Encoder (VAE) Implimentation](https://github.com/DimensionDweller/VAE_Implimentation)
 * [Using LSTM to Generate Novel Cooking Recipes](https://github.com/DimensionDweller/recipe_generator_LSTM/tree/main) - [You can play with the model here](https://huggingface.co/spaces/DimensionDweller/RecipeGenerator)
+* [Neural Style Transfer (NST) Implimentation](https://github.com/DimensionDweller/Neural_Style_Transfer/tree/main)
 * [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
 * [Visual Journey Through The Mountains using Apple Health Data](https://github.com/DimensionDweller/visual_journey_through_the_mountains) - An interactive visualization of hiking journeys using Apple Health's exported data and photos taken along the way.[View the Interactive Map here](https://645d6ec1cbb79215784d693d--enchanting-palmier-8f33ef.netlify.app)
 * [A Deep Dive into Word Embeddings Of Popular News Sources](https://github.com/DimensionDweller/nlp_word_embedding_analysis)
