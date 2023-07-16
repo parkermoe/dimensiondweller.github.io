@@ -17,6 +17,7 @@ On this site, you'll find a collection of my projects and blog posts that demons
 * B.A. Economics - The University of Michigan
 
 # Projects
+* [Conditional Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) - Implimentation]([https://github.com/DimensionDweller/VAE_Implimentation](https://github.com/DimensionDweller/Conditional_WGAN-CP_Implimentation/tree/main))
 * [Novel Face Generation and Manipulation - Variational Auto Encoder (VAE) Implimentation](https://github.com/DimensionDweller/VAE_Implimentation)
 * [Using LSTM to Generate Novel Cooking Recipes](https://github.com/DimensionDweller/recipe_generator_LSTM/tree/main) - [You can play with the model here](https://huggingface.co/spaces/DimensionDweller/RecipeGenerator)
 * [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
@@ -32,4 +33,4 @@ On this site, you'll find a collection of my projects and blog posts that demons
 
 - [NLP Series — Part 1: Concocting a BERT(iful) Soup For Sentiment Analysis of News Sources](https://medium.com/@parkermo_86729/concocting-a-bert-soup-for-sentiment-analysis-of-news-sources-1de0ab64d1ff)
 - [NLP Series — Part 2: Using Word2Vec Word Embeddings & t-SNE to Visually Explore Semantic Relations Among Words in New Articles](https://medium.com/@parkermo_86729/nlp-series-part-2-using-word2vec-word-embeddings-to-explore-semantic-relations-among-new-sources-d91a1371fd08)
-- [Title of My Third Medium Post](https://medium.com/@username/third-post)
+- [NLP Series - Part 3: Using Pytorch, Hugging Face, and a Pretrained BERT Model to Create News Source Classifier: A Step-by-Step Deep-Learning Approach]([https://medium.com/@username/third-post](https://medium.com/@parkermo_86729/using-pytorch-hugging-face-and-a-pretrained-bert-model-to-create-news-source-classifier-a-46dddbd4d919)https://medium.com/@parkermo_86729/using-pytorch-hugging-face-and-a-pretrained-bert-model-to-create-news-source-classifier-a-46dddbd4d919)
