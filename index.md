@@ -17,7 +17,7 @@ On this site, you'll find a collection of my projects and blog posts that demons
 * B.A. Economics - The University of Michigan
 
 # Projects
-* [Conditional Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) - Implimentation]([https://github.com/DimensionDweller/VAE_Implimentation](https://github.com/DimensionDweller/Conditional_WGAN-CP_Implimentation/tree/main))
+* [Conditional Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) - Implimentation](https://github.com/DimensionDweller/Conditional_WGAN-CP_Implimentation/tree/main)
 * [Novel Face Generation and Manipulation - Variational Auto Encoder (VAE) Implimentation](https://github.com/DimensionDweller/VAE_Implimentation)
 * [Using LSTM to Generate Novel Cooking Recipes](https://github.com/DimensionDweller/recipe_generator_LSTM/tree/main) - [You can play with the model here](https://huggingface.co/spaces/DimensionDweller/RecipeGenerator)
 * [Using NewsAPI, Beautiful Soup, and a Pretrained BERT Classifer to Perform Robust Sentiment Analysis](https://github.com/DimensionDweller/news_sentiment_analysis_viz)
