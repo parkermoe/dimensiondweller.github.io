@@ -1,14 +1,16 @@
 # Welcome to My Page!
 
-Hello, my name is Parker Moesta. I'm a data science enthusiast currently wrapping up my M.Sc in Data Science at the University of Michigan - School of Information. My academic journey began with an undergraduate degree in Economics, where I developed a keen interest in consumer sentiment, specifically in relation to greenwash advertising. This interest sparked my first foray into data analysis and research.
+Hello! I'm Parker Moesta.
 
-To deepen my understanding of analytics, I pursued an M.Sc in Business Analytics. This journey led me to the world of discrete event simulation and resulted in a research paper presented at the 4th North American International Conference on Industrial Engineering and Operations Management (IEOM).
+I'm an Data Scientist and AI enthusiast currently wrapping up my M.Sc in Data Science at the University of Michigan - School of Information. My journey began with an undergraduate degree in Economics where I delved into research around consumer sentiment, specifically around greenwash advertising and the downstream effects that had on shareholder value. During these years is where I laid my foundation in mathematics, statistics, and research.
 
-Recently, my passion has been focused on building complex and challenging deep learning models, particularly those involving Generative models. I find great satisfaction in delving into the mathematical intricacies and implementation details of different architectures, as it allows me to fully understand and optimize these powerful tools.
+In pursuit of a deeper understanding of analytics, I embarked on an M.Sc in Business Analytics. This academic endeavor facilitated my immersion into advanced statistics, optimization techniques, and simulation theory, marking my initiation into the multifaceted realm of Data Science. The zenith of this scholarly phase was my exploration of discrete event simulation, which culminated in a research paper that I presented at the esteemed 4th North American IEOM Conference
 
-Outside of my academic and professional pursuits, I am an avid backpacker, skier, and rock climber. These activities provide a balance to my life, fostering creativity and enthusiasm in my work.
+But what really drives me? It's the magic behind building deep learning models. I find it incredibly fulfilling to construct complex architectures from scratch. There's something beautiful about the mathematical intricacies woven into these models. This fascination keeps me on my toes, continuously learning and staying abreast of the latest research.
 
-On this site, you'll find a collection of my projects and blog posts that demonstrate my skills and interests in data science. Feel free to explore, and don't hesitate to reach out if you have any questions or just want to chat!
+When I'm not tinkering with models or poring over the latest AI research, you'll find me backpacking, skiing, or rock climbing. These activities offer a well-needed balance, igniting creativity and passion in my work.
+
+On this page, you'll find a collection of my projects and musings, each reflecting my skills and interests in data science and AI. So, feel free to explore! If you have any questions or just fancy a chat about the wonderful world of AI, don't hesitate to reach out!
 
 
 # Education
